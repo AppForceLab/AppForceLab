@@ -3,7 +3,7 @@
 ### 🧑‍💻 Full Stack Developer | 🛠️ CRM/ERP Integrator | 🤖 Automation Enthusiast  
 
 Welcome to my corner of GitHub, where Python, JavaScript, and Flutter turn coffee into software solutions ☕➡️💻.  
-With **3+ years of experience** in software development and **10+ years in IT**, I’ve seen it all – from bugs that only appear on Fridays to deployments that never go as planned (but do they ever?).  
+With **5+ years of experience** in software development and **10+ years in IT**, I’ve seen it all – from bugs that only appear on Fridays to deployments that never go as planned (but do they ever?).  
 
 ## 🔥 What do I do?  
 - Develop **web applications** using **React.js, TypeScript, Node.js, Django, FastAPI**.  
